@@ -2,6 +2,7 @@
 # by puppet.
 #
 # Usage:
+# - Install PyYAML
 # - Place this file in /usr/lib/yum-plugins
 # - Put the following in /etc/yum/pluginconf.d/puppet.conf
 #
